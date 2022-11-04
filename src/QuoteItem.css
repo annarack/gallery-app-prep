@@ -1,0 +1,7 @@
+.QuoteItem-container {
+  background-color: whitesmoke;
+  width: max-content;
+  border: solid black 1px;
+  padding: 20px 30px;
+  text-align: center;
+}
